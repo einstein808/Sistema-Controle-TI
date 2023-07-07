@@ -1,0 +1,94 @@
+<mxfile host="Electron" modified="2023-07-07T19:47:35.835Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.1 Chrome/112.0.5615.204 Electron/24.6.1 Safari/537.36" etag="N6rkFZEvCW6pfGTf1-o1" version="21.6.1" type="device">
+  <diagram name="Página-1" id="nMA6IqBKZQQzrquUjEr-">
+    <mxGraphModel dx="864" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EM2SAnbPU9apeihSim-s-1" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EM2SAnbPU9apeihSim-s-3" value="cadastrar usuário" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EM2SAnbPU9apeihSim-s-4" value="editar usuario" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EM2SAnbPU9apeihSim-s-5" value="excluir usurio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EM2SAnbPU9apeihSim-s-6" value="usurioo&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="440" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EM2SAnbPU9apeihSim-s-7" value="abrir chamado" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EM2SAnbPU9apeihSim-s-8" value="enviar mensagem" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EM2SAnbPU9apeihSim-s-9" value="consultar equimanento" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="70" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EM2SAnbPU9apeihSim-s-10" value="cadastrar computador" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EM2SAnbPU9apeihSim-s-11" value="cadastrar roteador" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EM2SAnbPU9apeihSim-s-12" value="cadastrar periferico" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EM2SAnbPU9apeihSim-s-13" value="consultar nota fical" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EM2SAnbPU9apeihSim-s-14" value="editar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EM2SAnbPU9apeihSim-s-15" value="inserir" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="60" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EM2SAnbPU9apeihSim-s-16" value="deletar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EM2SAnbPU9apeihSim-s-18" value="descartar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="50" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EM2SAnbPU9apeihSim-s-19" value="editar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="130" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EM2SAnbPU9apeihSim-s-20" value="deletar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="120" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EM2SAnbPU9apeihSim-s-21" value="descartar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="170" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EM2SAnbPU9apeihSim-s-23" value="editar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="210" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EM2SAnbPU9apeihSim-s-24" value="deletar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="230" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EM2SAnbPU9apeihSim-s-25" value="descartar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="280" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EM2SAnbPU9apeihSim-s-26" value="cadatrar nota" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="20" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EM2SAnbPU9apeihSim-s-27" value="deletar nota" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="5" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EM2SAnbPU9apeihSim-s-28" value="editar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="60" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vXv6wEpy0d2l1xZelB4P-1" value="colsultar operadora" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vXv6wEpy0d2l1xZelB4P-2" value="colsultar telefone" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="250" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vXv6wEpy0d2l1xZelB4P-3" value="consultar internet" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="300" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
