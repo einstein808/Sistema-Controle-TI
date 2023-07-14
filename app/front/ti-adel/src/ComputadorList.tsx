@@ -1,5 +1,10 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
+interface CardData {
+  image: string;
+  title: string;
+  description: string;
+}
 
 const ComputadorList = () => {
   const [computadores, setComputadores] = useState([]);
@@ -15,10 +20,16 @@ const ComputadorList = () => {
   }, []);
 
   return (
-    <div>
-      <h1>Lista de Computadores</h1>
-      <pre>{JSON.stringify(computadores, null, 2)}</pre>
-    </div>
+      <><h1>Lista de Computadores</h1><div>
+      {computadores.map((item, index) => (
+        <div key={index}>
+          <img src={item.image} alt="Imagem do Card" />
+          <h2>{item.title}</h2>
+          <p>{item.description}</p>
+          {/* Adicione aqui outros dados que deseja exibir no card */}
+        </div>
+      ))}
+    </div></>
   );
 }
 
